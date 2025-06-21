@@ -1,12 +1,23 @@
-# React + Vite
+# Context Store 🛒🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<li>React,Vite ile hazırlanmış e-ticaret sitesi arayüzü içerir.</li>
+<li>Ürünler kategorilere bölünmüş filtreleme sağlanmıştır.</li>
+<li>Ürünleri sepete ekleme,miktar artırma azaltma silme özelliği vardır.</li>
+<li>Kullanıcı dostu responsive tasarımı mevcuttur.</li>
 
-Currently, two official plugins are available:
+# Kullanılan Teknolojiler 🎨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<li>⭐ React</li>
+<li>⭐ Vite</li>
+<li>⭐ Bootstrap</li>
+<li>⭐ React-Icons</li>
+<li>⭐ React-Toastify</li>
+<li>⭐ React-Router-Dom</li>
+<li>⭐ Axios</li>
+<li>⭐ API</li>
+  
+# Ekran Görüntüsü 🎥
+<img src="contextstore.gif" width="auto">      
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# İletişim 📩
+yunusemreoral@hotmail.com.tr
